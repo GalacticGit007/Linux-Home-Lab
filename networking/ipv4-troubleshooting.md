@@ -61,3 +61,7 @@ Now check the ```ip addr```:
 Now the routing table:
 
 ![](images/ip-route.png)
+
+### Now SSH works.
+
+Lesson learned ;)
